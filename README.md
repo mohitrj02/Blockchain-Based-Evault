@@ -1,4 +1,4 @@
-# Blockchain eVault for Smart India Hackathon 2023
+# Blockchain eVault 
 
 ## Overview
 This project aims to create a secure eVault utilizing blockchain technology for judges, clients, lawyers, and stakeholders. Developed for the Smart India Hackathon 2023, it employs React and Node.js for the user interface, Solidity for smart contracts on the Ethereum blockchain via MetaMask, Pinata IPFS for storage, and Django with MongoDB for the backend.
